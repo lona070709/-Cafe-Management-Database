@@ -8,13 +8,13 @@ The database helps store and organize information about the menu, orders, staff,
 * **DBMS:** LibreOffice Base
 * **File format:** `.odb`
 * **Query Language:** SQL
-* 
+  
 ##  Database Structure
 The project implements the following main tables:
-* **Menu** — a list of dishes, drinks, and their prices.
-* **Orders** — tracking of customer orders.
-* **Staff** — information about the cafe staff.
-* **Clients** — a database of regular customers.
+* **Menu**  a list of dishes, drinks, and their prices.
+* **Orders**  tracking of customer orders.
+* **Staff**  information about the cafe staff.
+* **Clients**  a database of regular customers.
 
 ##  How to Run
 1. Download the `cafe_database.odb` file from this repository.
